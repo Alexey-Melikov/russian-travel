@@ -7,14 +7,8 @@
 
 @media screen and (max-width: 1024px) {
   .lead__image {
-    max-width: 94.4%;
+    width: 100%;
     padding-top: 56px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead__image {
-    max-width: 100%;
   }
 }
 

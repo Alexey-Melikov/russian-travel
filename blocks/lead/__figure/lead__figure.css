@@ -1,0 +1,21 @@
+.lead__figure {
+  width: 100%;
+  display: grid;
+  grid-template-rows: min-content;
+  justify-items: center;
+  overflow: hidden;
+  margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__figure {
+    width: 94.328%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead__figure {
+    width: 100%;
+  }
+}
+

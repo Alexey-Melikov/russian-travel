@@ -1,0 +1,12 @@
+.places__container {
+  display: grid;
+  justify-items: center;
+  grid-template-rows: repeat(2, min-content);
+  row-gap: 26px;
+}
+
+@media screen and (max-width: 611px) {
+  .places__container {
+    row-gap: 25px;
+  }
+}
