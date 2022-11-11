@@ -9,7 +9,7 @@
   text-align: center;
 }
 
-@media screen and (max-width: 611) {
+@media screen and (max-width: 611px) {
   .cover__subtitle {
     font-size: 16px;
     line-height: 19px;

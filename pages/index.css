@@ -9,7 +9,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__link-active/header__link-active.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 /* HEADER */
 
 /* LEAD */
@@ -43,7 +43,7 @@
 @import url(../blocks/places/__website/places__website.css);
 @import url(../blocks/places/__url-heading/places__url-heading.css);
 @import url(../blocks/places/__link/places__link.css);
-@import url(../blocks/places/__parahraph/places__parahraph.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__container/places__container.css);
 /* places */
 
