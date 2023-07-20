@@ -9,8 +9,5 @@ __________
 * CSS Grid Layout
 * Работа по макету Figma
 * Адаптивная верстка с использованием медиа-запросов
-# Планы по доработке проекта
-* Добавление JavaScript
 
 * [Ссылка проекта на GitHub](https://alexey-melikov.github.io/russian-travel/)
-
